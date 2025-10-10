@@ -71,3 +71,16 @@ You can also run scripts individually, e.g.:
 - PyTorch for Deep Q-Network implementation  
 
 ---
+
+## Sample RL Agent Performance
+
+The following GIFs show the performance of trained agents:
+
+### CartPole (A2C)
+![CartPole](gifs/a2c_cartpole.gif)
+
+### FrozenLake (A2C)
+![FrozenLake](gifs/a2c_frozenlake.gif)
+
+### LunarLander (A2C)
+![LunarLander](gifs/a2c_lunarlander.gif)
