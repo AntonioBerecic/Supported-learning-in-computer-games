@@ -83,4 +83,4 @@ The following GIFs show the performance of trained agents:
 ![FrozenLake](gifs/A2C_frozenlakev1.gif)
 
 ### LunarLander (A2C)
-![LunarLander](gifs/A2C_lunarlander_V3.gif)
+![LunarLander](gifs/A2C_lunearlander_V3.gif)
