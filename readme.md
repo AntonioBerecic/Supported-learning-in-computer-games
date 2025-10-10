@@ -77,10 +77,10 @@ You can also run scripts individually, e.g.:
 The following GIFs show the performance of trained agents:
 
 ### CartPole (A2C)
-![CartPole](gifs/a2c_cartpole.gif)
+![CartPole](gifs/a2c_cartpole1.gif)
 
 ### FrozenLake (A2C)
-![FrozenLake](gifs/a2c_frozenlake.gif)
+![FrozenLake](gifs/a2c_frozenlake1.gif)
 
 ### LunarLander (A2C)
-![LunarLander](gifs/a2c_lunarlander.gif)
+![LunarLander](gifs/a2c_lunarlander_V3.gif)
