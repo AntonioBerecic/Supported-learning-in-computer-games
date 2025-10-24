@@ -1,6 +1,7 @@
 # Reinforcement Learning for Classic Control Environments
 
 This project implements reinforcement learning agents to solve OpenAI Gym classic control environments: CartPole, FrozenLake, and LunarLander. Multiple training algorithms are supported including policy gradient methods (A2C, PPO) and Deep Q-Networks (DQN).
+This project was done as a collaboration with fellow student @lovroruzman where he worked on the DQN parts and I on the A2C/PPO part.
 
 See the full project report: [project PDF](Primjena_podržanog_ucenja_za_trening_agenta_u_jednostavnim_racunalnim_igrama.pdf)
 
